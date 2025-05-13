@@ -1,4 +1,4 @@
-SkuProducto;Producto,Linea,Grupo,Categoria,SubCategoria,SubSubCatego,Area,Estado
-1630,Push Car Prinsel Adventure Rojo,Prinsel,Juguetes,Juguetes,Juguetes,Juguetes,Juguetes,VIGENTE
-4080,PlayHouse 2 en 1 Prinsel Unisex,Prinsel,Juguetes,Juguetes,Juguetes,Juguetes,Juguetes,VIGENTE
-6051,Baby Colecho Beige,Prinsel,Juguetes,Juguetes,Juguetes,Juguetes,Juguetes,VIGENTE
+SkuProducto;Producto;Linea;Grupo;Categoria;SubCategoria;SubSubCatego;Area;Estado
+1630;Push Car Prinsel Adventure Rojo;Prinsel;Juguetes;Juguetes;Juguetes;Juguetes;Juguetes;VIGENTE
+4080;PlayHouse 2 en 1 Prinsel Unisex;Prinsel;Juguetes;Juguetes;Juguetes;Juguetes;Juguetes;VIGENTE
+6051;Baby Colecho Beige;Prinsel;Juguetes;Juguetes;Juguetes;Juguetes;Juguetes;VIGENTE
